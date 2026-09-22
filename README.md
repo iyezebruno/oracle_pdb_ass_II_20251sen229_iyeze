@@ -59,7 +59,6 @@ The following steps were completed:
 
 9. I confirmed that the username was displayed successfully.
 
-This completed Task 1.
 
 
 ## Task 2: Create and Delete a Temporary PDB
@@ -92,7 +91,6 @@ The following steps were completed:
 
    was no longer shown in the PDB list.
 
-This confirmed that the temporary PDB was deleted successfully.
 
 
 ## Task 3: Oracle Enterprise Manager
@@ -119,7 +117,6 @@ The following steps were completed:
 
 9. I captured a screenshot of the Oracle Enterprise Manager dashboard as evidence.
 
-This completed Task 3.
 
 ## Evidence
 
@@ -157,7 +154,7 @@ I performed the practical database activities in my Oracle environment and captu
 
 ## Submission Details
 
-Repository Link: [Add GitHub repository link]
+Repository Link: https://github.com/iyezebruno/oracle_pdb_ass_II_20251sen229_iyeze.git
 
 PDB Name Created: IY_PDB_20251SEN229
 
